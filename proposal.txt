@@ -1,0 +1,23 @@
+Aaron Portal
+Landon Wang
+3/7/21
+
+Cyber Security Project Proposal
+Project Choice: Hands On and Coding (DES and RSA)
+
+The topics that we definitely will accomplish over the course of this project includes working implementations of both the Data Encryption Standard (DES) and RSA encryption algorithms. 
+We will create a program that can take an input text file and using a key provided by or given to the user will encrypt the text file using one of the two given algorithms. 
+Along with this, we will also gain a better understanding of the inner workings of implementing the DES and RSA encryption and decryption algorithm. These are the accomplishments that we have in mind for this project.
+ 
+The topics that we expect to accomplish while working on this project are composed of researching and experiencing real life examples with the DES and RSA algorithms. 
+By creating our own working versions of these algorithms we expect to look into actual implementations used currently regarding these algorithms. 
+Through testing the algorithms we also expect to understand what the algorithms should output at certains steps and understand how it accomplishes the overall encryption. 
+One expectation we have is that by researching key generation and how it affects the overall encryption process we can design our algorithms to optimize it’s encryption and provide more secure results. 
+One potential way of incorporating this is to create a distinct way to generate unique keys based on user input. 
+The key provides a vital role in encrypting messages, and therefore great care should be taken to how they are chosen and created. 
+Thus we hope to implement our own specific way of taking a user’s input and create a key based off of it, to provide another sublayer to the security. 
+ 
+If we have more time to work on this project, we believe one thing that we will be able to accomplish is improving the performance of the two programs to make the encryption and decryption process faster and more efficient. 
+We can also implement some ways to counterattack or protect against cyber attacks in our programs, which will further increase the security of them. 
+Another thing we want to try to implement if we have time is to try combining the two encryption methods to provide a much more secure ware of file encryption. 
+These are the few things that we believe we can accomplish if we have more time.
