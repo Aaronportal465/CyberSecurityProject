@@ -1,0 +1,7 @@
+DataEncryptionStandard.java - Landon Wang
+
+To Use the DES encryption program, obtain the absolute address of the text file that you want to encrypt. Then replace it with the absolute address file of the alice.txt file in the buffer reader. Then, run the program. You will recieve 2 txt files after the program finishes. The first text file starts with the name "encrypt" followed by a long string of numbers before ending with the extention .txt. The second text file starts with the name "result" followed by a long string of numbers before ending with the extension .txt. The first text file shows the encrypted binary representation of your input text while the second text file will show the decrypted readable file. The program will also tell you the hexadecimal key used for the whole cipher process along with the key generation, encryption, and decryption time.
+
+RSAImplementation.py - Aaron Portal
+
+This program will read in a file to be encrypted with the RSA encryption algorithm. It will display the encryption and decryption time for the whole program. After the program finished executing, two files will be made. One of the file will contain the encrypted version of the text whie the other file will contain the decrypted version of the text.
